@@ -18,7 +18,7 @@
     --gradient-hero: linear-gradient(135deg, rgba(66, 220, 213, 0.1) 0%, rgba(43, 143, 142, 0.1) 100%);
     
     
-    --font-primary: 'Titillium Web', sans-serif;
+    --font-primary: 'Chivo', sans-serif;
     
     
     --section-padding: 100px 0;
@@ -428,7 +428,7 @@ ul {
 
 .feature i {
     font-size: 24px;
-    color: var(--accent-teal);
+    color: #1a7a3c;
 }
 
 .feature span {
