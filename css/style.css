@@ -615,6 +615,11 @@ ul {
     margin-bottom: 15px;
 }
 
+.leader-card .card-image img {
+    object-fit: contain;
+    object-position: center;
+}
+
 .team-join-cta {
     text-align: center;
     padding: 60px 30px;
